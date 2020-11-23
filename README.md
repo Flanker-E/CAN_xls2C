@@ -6,7 +6,7 @@ Run the script, and the script will generate several files.<br>
 THe generated files would appear in the original path. It will generate .c and .h files which run the dbc unpack and communication functions.<br>
 This script will generate a wireless version and a SD card version, which satisfied the needs of users.<br>
 ![img](https://github.com/Flanker-E/repository_photo-gif/blob/main/can2xls_2.png)<br>
-.h head file<br>
+brief screenshot of .h head file<br>
 ![img](https://github.com/Flanker-E/repository_photo-gif/blob/main/can2xls_3.png)<br>
-.c file<br>
+brief screenshot of .c file<br>
 ![img](https://github.com/Flanker-E/repository_photo-gif/blob/main/can2xls_4.png)<br>
